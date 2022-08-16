@@ -1,0 +1,133 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": 60,
+      "date": "2022-08-01",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "amount": 360,
+      "date": "2022-08-02",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "amount": 120,
+      "date": "2022-08-04",
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "amount": 50,
+      "date": "2022-08-04",
+      "categoryId": 5
+    },
+    {
+      "id": 5,
+      "amount": 150,
+      "date": "2022-08-05",
+      "categoryId": 4
+    },
+    {
+      "id": 6,
+      "amount": 60,
+      "date": "2022-08-06",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "amount": 80,
+      "date": "2022-08-07",
+      "categoryId": 5
+    },
+    {
+      "id": 8,
+      "amount": 40,
+      "date": "2022-08-09",
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "amount": 50,
+      "date": "2022-08-10",
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "amount": 30,
+      "date": "2022-08-10",
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "amount": 15,
+      "date": "2022-08-11",
+      "categoryId": 4
+    },
+    {
+      "id": 12,
+      "amount": 10,
+      "date": "2022-08-12",
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "amount": 31,
+      "date": "2022-08-13",
+      "categoryId": 3
+    },
+    {
+      "categoryId": 2,
+      "amount": 200,
+      "date": "2022-08-13",
+      "id": 14
+    },
+    {
+      "categoryId": 4,
+      "amount": 20,
+      "date": "2022-08-14",
+      "id": 15
+    },
+    {
+      "categoryId": 5,
+      "amount": 20,
+      "date": "2022-08-14",
+      "id": 16
+    },
+    {
+      "categoryId": 1,
+      "amount": 40,
+      "date": "2022-08-15",
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Entertainment",
+      "type": "expense"
+    },
+    {
+      "id": 2,
+      "title": "House",
+      "type": "expense"
+    },
+    {
+      "id": 3,
+      "title": "Transportation",
+      "type": "expense"
+    },
+    {
+      "id": 4,
+      "title": "Education",
+      "type": "expense"
+    },
+    {
+      "id": 5,
+      "title": "Food",
+      "type": "expense"
+    }
+  ]
+}
